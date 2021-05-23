@@ -1,0 +1,1 @@
+[null,{"name":"SetGame","temp":"","event-type":"3","_id":"vFRTw","actions":[{"server":"0","varName":"","info":"27","storage":"1","varName2":"123","name":"Store Server Info"},{"gameName":"Online: ${tempVars(\"123\")} ","gameLink":"","name":"Set Bot Game"}]}]
